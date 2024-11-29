@@ -24,7 +24,7 @@ Modern ve kullanıcı dostu bir todo uygulaması. Laravel 11 ve Jetstream kullan
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/[kullanıcı-adınız]/laravel11_todo.git
+git clone https://github.com/ademcaniyik/laravel11_todo.git
 cd laravel11_todo
 ```
 
@@ -79,4 +79,4 @@ Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
-Sorularınız veya önerileriniz için [GitHub Issues](https://github.com/[kullanıcı-adınız]/laravel11_todo/issues) kullanabilirsiniz.
+Sorularınız veya önerileriniz için [GitHub Issues](https://github.com/ademcaniyik/laravel11_todo/issues) kullanabilirsiniz.
